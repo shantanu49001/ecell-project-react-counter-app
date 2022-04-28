@@ -8,5 +8,6 @@ type npm install -y -->to install all dependencies of the project.
 
 
 by-shantanu
+WORKING-
 this app uses react components together imported in app.jsx which gets rendered in index .html in "root" div class
 this app uses react useState function to perform add /subtract from buttons
